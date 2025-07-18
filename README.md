@@ -34,7 +34,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![HTML 5](https://img.shields.io/badge/HTML%205-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrapt-voilet)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue)
+![Tailwind CSS](https://img.shields.io/badge/CSS-blue)
 ![Django](https://img.shields.io/badge/Django-orange)
 
 
