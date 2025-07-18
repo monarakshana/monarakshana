@@ -1,25 +1,22 @@
-# Mona Rakshana .M .M&nbsp;<img src="https://github.com/monarakshana/monarakshana/Assets/Mario_Hello_Big.gif" width="30px">
+# Mona Rakshana .M .M  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium%20Skin%20Tone.png" alt="Call Me Hand Medium Skin Tone" width="25" height="25" />
 
-<img align="right" alt="PC GIF" src="https://github.com/monarakshana/monarakshana/Assets/PC.gif" width="190" />
-
-### <img src="https://github.com/monarakshana/monarakshana/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/monarakshana/monarakshana/Assets/Earth.gif" width="24px">
-
+### Hi there 👋 ! I am Mona ! Welcome to my stream.
 <p>
   <em>
     I am a Final Year undergraduate from Sathyabama Institute of Science and technology, Shollinganallur.  
-    A budding Web Developer<img src="https://github.com/monarakshana/monarakshana/Assets/Developer.gif" width="30px"> and a <b>Design Enthusiast,</b>&nbsp;<img src="https://github.com/monarakshana/monarakshana/Assets/Designer.gif" width="36px"> who is<b>obsessed</b> with the idea of <b>improving</b>and wants a<b>platform</b>to<b>grow</b> <img src="https://github.com/monarakshana/monarakshana/Assets/Rocket.gif" width="18px">and <b>excel.</b> <img src="https://github.com/monarakshana/monarakshana/Assets/Medal.gif" width="20px">
+    A budding Web Developer and a <b>Design Enthusiast,</b>who is<b>obsessed</b> with the idea of <b>improving</b>and wants a <b>platform</b>to<b>grow</b> and <b>excel.</b>
   </em>  
 </p>
 
 <br>
 
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshana/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshanaAssets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshana/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshana/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshanaAssets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshana/Assets/powerup.gif" width="20px" /> **Pronouns:** [*She/Her*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/monarakshana/monarakshana/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- I’m *currently learning* how to **flex README** on my **profile** 💪.
+- I’m *looking to collaborate* on **python 🐍 projects**.
+- I’m *looking* for *help* with **wifi connection 🌐**
+- *Ask me* about **why do I think aliens 👽 exist.**
+- **Pronouns:** *She/Her* 🧔
+- **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>
