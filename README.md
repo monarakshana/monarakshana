@@ -11,12 +11,10 @@
 <br>
 
 - I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- I’m *currently learning* how to **flex README** on my **profile** 💪.
 - I’m *looking to collaborate* on **python 🐍 projects**.
 - I’m *looking* for *help* with **wifi connection 🌐**
-- *Ask me* about **why do I think aliens 👽 exist.**
 - **Pronouns:** *She/Her* 🧔
-- **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+
 
 
 <br>
