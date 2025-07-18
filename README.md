@@ -1,4 +1,4 @@
-# Shubhamdeep Jha&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Mona Rakshana .M .M&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <!-- 
@@ -11,9 +11,9 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    I am a Final Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>Sathyabama Institute of Science and technology</b>, Shollinganallur</a>.  
+    A budding <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    with the idea of <b>improving</b>and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
@@ -33,16 +33,16 @@
 <br>
 
 <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarakshana&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=monarakshana&show_icons=true&theme=dark&line_height=27" alt="Mona's github stats"/>
 </a>
 
 
 <a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=monarakshana&repo=TheDudeThatCode&theme=dark" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
